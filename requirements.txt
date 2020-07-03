@@ -1,0 +1,3 @@
+pyTelegrambotApi
+opencv-python
+requests
